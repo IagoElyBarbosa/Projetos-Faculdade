@@ -1,0 +1,2 @@
+_t: parte teórica da disciplina
+_p: parte prática da disciplina

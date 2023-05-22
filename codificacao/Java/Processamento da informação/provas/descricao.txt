@@ -1,0 +1,3 @@
+As provas teóricas possuem exercícios de olimpiedas de programação.
+
+sufixo: _t

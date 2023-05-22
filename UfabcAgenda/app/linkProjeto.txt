@@ -1,0 +1,3 @@
+O código do projeto pode ser conferido em: https://glitch.com/edit/#!/ufabc-agenda
+
+A aplicação pode ser conferida em: https://ufabc-agenda.glitch.me

@@ -1,0 +1,4 @@
+Exercicios de Lógica de Programação realizados ao longo da graduação. Desde níveis mais simples, trantando de tópicos básicos das linguagens, até exercícios em níveis de olimpiedas de pro-
+gramação.
+
+*ep = exercicio prático.

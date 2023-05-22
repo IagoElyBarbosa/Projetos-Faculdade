@@ -1,0 +1,12 @@
+UfabcAgenda é um projeto desenvolvido pela matéria de Engenharia de Software, que tem o propósito de ajudar os alunos ingressantes na faculdade com o processo de obter informações das di-
+das diversas plataformas institucionais. Para tanto, a ideia era criar uma agenda integrada, que puxa-se informações relevantes dessas plataformas, e exibisse na tela de forma amigável ao 
+usuário. Como, na época, o grupo não possuia certos conhecimentos essenciais, a proposta era criar um site estático, e deixar definido como ele supostamente deveria funcionar nas próximas
+versões. 
+
+O projeto possui: Planejamento de Gestão Ágil(canvas), definição de requisitos e prototipação, arquitetura, backlog do produto e PVM(produto mínimo viável), sprint planning e plano de tes-
+tes. 
+
+Não foi finalizado por falta de tempo.
+
+Integrantes: Iago Ely Barbosa, Eduardo Makita, Luiz Bittencourt e André Sato.
+
