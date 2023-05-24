@@ -1,0 +1,4 @@
+Projeto final realizado pela matéria de Bases Computacionais da Ciência(terceiro quadrimestre de 2021). Esta é uma matéria introdutória para o bacharelado em Ciências da Computação, portan-
+to, algumas técnicas e conceitos são apresentados de maneira equivocada. O trabalho tem a proposta de realizar especulações sobre o consumo de combustíveis fósseis, por meio de tabelas dis-
+ponibilizadas pela plataforma digital "https://ourworldindata.org/", técnicas de WebScraping e simulações em python.
+
